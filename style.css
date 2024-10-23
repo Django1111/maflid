@@ -1,0 +1,46 @@
+*{
+    background-color: rgb(97, 35, 6);
+    color: #186b1c;
+}
+.freakster {
+    font-family: "Brush Script MT", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+  }
+  
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.story {
+    padding: 10%;
+  
+}
+
+header, footer {
+    background-color: #1e5309;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#madLibOutput {
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+/* Add more styles based on your creativity and design preferences */
